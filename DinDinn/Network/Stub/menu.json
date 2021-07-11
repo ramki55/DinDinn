@@ -1,0 +1,127 @@
+{
+   "id":"1",
+   "name":"Singapore DinDinn Cafe",
+   "image":"pizza.jpg",
+   "menu":[
+      {
+         "name":"Pizza",
+         "id":"11",
+         "image":"InstructionsView.jpg",
+         "dishes":[
+            {
+               "id":"100000001",
+               "name":"Pizza Vicoria",
+               "price":10.05,
+               "image":"pizza.jpg",
+               "description":"Fresh pizza, mushrooms, and hard-boiled egg served with warm bacon vinaigrette"
+            },
+            {
+               "id":"100000003",
+               "name":"Traditional Singapore Seafood",
+               "price":15.0,
+               "image":"Chicken.jpg",
+               "description":"with clams, scallops, and shrimp,"
+            },
+            {
+               "id":"100000004",
+               "name":"Salad Bar Pizza",
+               "price":6.0,
+               "image":"pizza1.jpg",
+               "description":"Flour Mixed with fresh green leafy vegetables"
+            },
+            {
+               "id":"100000005",
+               "name":"Chicken Panner",
+               "price":14.75,
+               "image":"pizza2.jpg",
+               "description":"Fresh as home made chicken soup"
+            },
+            {
+               "id":"100000006",
+               "name":"One Pot Vegetarian",
+               "price":25.0,
+               "image":"pizza.jpg",
+               "description":"One Pot Vegetarian Orzo Vegetable Soup"
+            },
+            {
+               "id":"100000007",
+               "name":"Low Carb Chicken Pizza",
+               "price":45.0,
+               "image":"pizza2.jpg",
+               "description":"wholesomeyum low carb chicken soup with spaghetti squash paleo gluten free."
+            }
+         ]
+      },
+      {
+         "name":"Sushi",
+         "id":"12",
+         "image":"pizza1.jpg",
+         "dishes":[
+            {
+               "id":"100000008",
+               "name":"Traditional Filet Mignon",
+               "price":24.0,
+               "image":"pizza.jpg",
+               "description":"A 6 oz tenderloin wrapped in bacon and served with pureed yukon gold potatoes and haricots verts."
+            },
+            {
+               "id":"100000009",
+               "name":"Bacon Bourbon Tenderloin",
+               "price":16.0,
+               "image":"pizza2.jpg",
+               "description":"Tenderloin tips, sautéed with bacon and mushrooms and finished with a bourbon-BBQ sauce."
+            },
+            {
+               "id":"100000010",
+               "name":"Rustlers Ribeye",
+               "price":18.0,
+               "image":"pizza1.jpg",
+               "description":"Thick, hand-cut prime rib, grilled to order, served with a baked potato and seasonal vegetable medley."
+            },
+            {
+               "id":"100000011",
+               "name":"Surf and Turf",
+               "price":17.0,
+               "image":"pizza2.jpg",
+               "description":"A grilled, queen-cut ribeye served with shrimp and scallop alfredo."
+            },
+            {
+               "id":"100000012",
+               "name":"Roast Pork Loin",
+               "price":23.0,
+               "image":"pizza2.jpg",
+               "description":"Slow roasted pork loin finished with a portabella demi-glace. Served with marrow-scented couscous and wilted kale."
+            },
+            {
+               "id":"100000014",
+               "name":"Veal Saltimbocca",
+               "price":12.0,
+               "image":"pizza1.jpg",
+               "description":"Tender veal cutlets sautéed with fresh sage and prosciutto. Finished in the oven with mozzarella."
+            }
+         ]
+      },
+      {
+         "name":"Chicken House",
+         "id":"13",
+         "image":"InstructionView.jpg",
+         "dishes":[
+            {
+               "id":"100000016",
+               "name":"Chicken Saltimbocca",
+               "price":22.0,
+               "image":"Chicken.jpg",
+               "description":"Boneless chicken breast sautéed with fresh sage and prosciutto. Finished in the oven with mozzarella."
+            },
+            {
+               "id":"100000017",
+               "name":"Emeril’s Chicken",
+               "price":15.0,
+               "image":"Chicken.jpg",
+               "description":"Boneless chicken breast sautéed with mushrooms, spinach, artichoke hearts, fire-roasted red peppers, and sun-dried tomatoes."
+            }
+         ]
+      }
+         ]
+      }
+
